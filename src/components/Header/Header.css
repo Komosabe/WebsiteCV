@@ -24,5 +24,7 @@ header p {
   font-size: 1.25rem;
   color: #8964b0;
   font-family: "Roboto Condensed", sans-serif;
-  text-align: center;
+  max-width: 1028px;
+  margin-left: auto;
+  margin-right: auto;
 }
